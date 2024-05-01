@@ -1,4 +1,4 @@
-## Instagram User Analytics Project
+## Instagram User Analytics Project using SQL by Raj Rathod
 
 ### Description
 Welcome to the Instagram User Analytics project! As a data analyst collaborating with Instagram's product team, your role is crucial in deciphering user interactions and engagement with the app to provide actionable insights. These insights will empower various teams within Instagram to make informed decisions, leading to the app's growth and enhancement of user experience.
